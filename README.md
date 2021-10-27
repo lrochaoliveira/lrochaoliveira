@@ -1,4 +1,4 @@
-### Hi there! I'm Luciana Oliveira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Hi there! I'm Luciana Oliveira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrochaoliveira&color=yellow" alt="Profile views" /> </p>
 
