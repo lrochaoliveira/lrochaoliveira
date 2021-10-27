@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrochaoliveira&color=yellow" alt="Profile views" /> </p>
 
-<img align="right" width="450px" alt="GIF" src="https://github.com/lrochaoliveira/lrochaoliveira/blob/main/QRCode_Luciana.png"/>
+<img align="right" width="250px" alt="GIF" src="https://github.com/lrochaoliveira/lrochaoliveira/blob/main/QRCode_Luciana.png"/>
 
 - 🔭 I’m currently working on System Analyst and Developer in a Oil and Gas segment
 - 🌱 I’m learning about Machine Learning
