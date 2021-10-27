@@ -1,10 +1,7 @@
 ### Hi there! I'm Luciana Oliveira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-<!--
-**lrochaoliveira/lrochaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lrochaoliveira&color=yellow" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on System Analyst and Developer in a Oil and Gas segment
 - 🌱 I’m learning about Machine Learning
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
