@@ -36,3 +36,4 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
+![Snake animation](https://github.com/lrochaOliveira/lrochaOliveira/blob/main/github-contribution-grid-snake.svg)
